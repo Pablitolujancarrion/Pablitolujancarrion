@@ -1,5 +1,5 @@
 <div align="center" style="border: 12px solid #FF5733; padding: 15px; border-radius: 20px; background: linear-gradient(to right, #FF5733, #C70039, #900C3F); box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
-  <img src="https://i.pinimg.com/736x/e2/85/4e/e2854e65bbdc7ca1c53183c90a71b3c8.jpg" alt="Image with color border" style="border-radius: 10px; max-width: 100%; height: auto;" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQohXJTGSXKfkLjIxm_ISu327faRiIwmPcCxQ&s" alt="Image with color border" style="border-radius: 10px; max-width: 100%; height: auto;" />
 </div>
 
 <br>

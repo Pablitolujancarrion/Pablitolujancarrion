@@ -1,9 +1,9 @@
-<div align="center" style="width: 350px; margin: 0 auto; border: 12px solid #FF5733; padding: 15px; border-radius: 30px; background: linear-gradient(to right, #FF5733, #C70039, #900C3F); box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
-  <a href="https://www.youtube.com/watch?v=NjjeO5eAJD4" target="_blank">
-    <img src="https://img.youtube.com/vi/NjjeO5eAJD4/maxresdefault.jpg" alt="Video Thumbnail" style="border-radius: 20px; width: 100%; height: auto;">
-  </a>
+<div align="center" style="border: 12px solid #FF5733; padding: 15px; border-radius: 20px; background: linear-gradient(to right, #FF5733, #C70039, #900C3F); box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+  <video autoplay loop controls style="border-radius: 20px; max-width: 100%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);">
+    <source src="file:///C:/Users/Estheban/Downloads/tu-video.mp4" type="video/mp4">
+    Tu navegador no soporta videos HTML5.
+  </video>
 </div>
-
 
 
 

@@ -28,7 +28,7 @@
 
 <!-- Social Media Links -->
 <div align="center" style="margin-top: 20px;">
-  <a href="https://www.facebook.com/search/top?q=sideral" target="_blank">
+  <a href="https://www.facebook.com/SiDeRaLLL" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="facebook logo" />
   </a>
   <a href="https://www.instagram.com/sideral123456/" target="_blank">

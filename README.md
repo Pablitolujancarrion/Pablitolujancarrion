@@ -1,5 +1,10 @@
+
+
+
+
+
 <div align="center" style="border: 12px solid #FF5733; padding: 15px; border-radius: 20px; background: linear-gradient(to right, #FF5733, #C70039, #900C3F); box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
-  <img src="file:///C:/Users/Estheban/Downloads/WhatsApp%20Image%202024-12-12%20at%209.12.25%20PM%20(1).jpeg" />
+  <img src="https://universidadsideralcarrion.com/storage/img/Usc/Certificados/Certificado.png" />   
 </div>
 
 <br>

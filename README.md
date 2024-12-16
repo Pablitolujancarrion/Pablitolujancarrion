@@ -1,13 +1,6 @@
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=NjjeO5eAJD4" target="_blank">
-    <img src="ruta_del_gif.gif" alt="Video GIF" style="border-radius: 20px; width: 350px; height: auto;">
-  </a>
-  <p style="font-size: 14px; color: #555;">Haz clic en la animación para ver el video con audio en YouTube.</p>
+  <img src="https://uploads.disquscdn.com/images/3ad63da395bee716dac198fd58295a39cdd4f2c02f02b3a7ffb86c7a3adcc97b.jpg" alt="Video Thumbnail" style="border-radius: 20px; width: 350px; height: auto;">
 </div>
-
-
-
-
 
 
 

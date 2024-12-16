@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://universidadsideralcarrion.com/storage/img/SlayderMain/campus%20Norte.png" alt="Video Thumbnail" style="border-radius: 20px; width: 350px; height: auto;">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6CELs5XtFXHypg6q6kCzA5-77WkEpsG9j8U6ShxgQDdpGtyjc7RuVS8mU8fEiGU7vMRQ&usqp=CAU" alt="Video Thumbnail" style="border-radius: 20px; width: 350px; height: auto;">
 </div>
 
 

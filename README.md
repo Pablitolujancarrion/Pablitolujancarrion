@@ -1,8 +1,6 @@
 <div align="center">
-  <img src="https://www.facebook.com/photo/?fbid=594066109804521&set=a.176320848245718&__cft__[0]=AZXgDiNu446Ikk_ybawpoOy0U1y8v6aSmk8ZZa7-huISDKvyCj2hqGS7P0EDGylHgya3kuXE9Bhb3wOwuSkIJXYFAgC_iDIWn1iEDxk9i-yXX8WGxg2fmnIkPF_RTTtUBioj8I5EUq4jGua0bcqXimp-bXpCxeLGoRWSk8wCmE6tDQ&__tn__=EH-R" style="border-radius: 20px; width: 350px; height: auto;">
+  <img src="https://uploads.disquscdn.com/images/3ad63da395bee716dac198fd58295a39cdd4f2c02f02b3a7ffb86c7a3adcc97b.jpg" alt="Video Thumbnail" style="border-radius: 20px; width: 350px; height: auto;">
 </div>
-
-
 
 
 <br>

@@ -1,18 +1,8 @@
-
-
 <div align="center" style="width: 350px; margin: 0 auto; border: 12px solid #FF5733; padding: 15px; border-radius: 30px; background: linear-gradient(to right, #FF5733, #C70039, #900C3F); box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
-  <div style="border-radius: 20px; overflow: hidden; position: relative; width: 100%; padding-top: 177%; background: black;">
-    <iframe 
-        src="https://www.youtube.com/embed/NjjeO5eAJD4?autoplay=1&mute=0" 
-        title="YouTube video player" 
-        frameborder="0" 
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-        allowfullscreen 
-        style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
-    </iframe>
-  </div>
+  <a href="https://www.youtube.com/watch?v=NjjeO5eAJD4" target="_blank">
+    <img src="https://img.youtube.com/vi/NjjeO5eAJD4/maxresdefault.jpg" alt="Video Thumbnail" style="border-radius: 20px; width: 100%; height: auto;">
+  </a>
 </div>
-
 
 
 
